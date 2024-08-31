@@ -1,0 +1,19 @@
+{
+  "name": "bee-zustand",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "pixi.js": "^8.3.1",
+    "ramda": "^0.30.1",
+    "zustand": "^4.5.4"
+  }
+}
